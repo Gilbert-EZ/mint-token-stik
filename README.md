@@ -10,3 +10,5 @@ cluster: devnet or mainnet
 
 # devnet, 9 decimals spl-token
 cargo run devent ./account.json 9 10000000000
+
+20221124 forked
